@@ -1,0 +1,6 @@
+App(
+    appid="signal_reaper",
+    apptype="FlipperApp",
+    name="SignalReaper",
+    entry_point="signal_reaper_app"
+)
